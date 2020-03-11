@@ -1,0 +1,30 @@
+.card {
+  font: Nutino;
+  font-weight: 100px;
+  background: rgba(255, 255, 255, 0.2);
+  width: 1000px;
+  justify-content: center;
+  align-content: center;
+  padding: 10px;
+}
+.accordian {
+  align-content: center;
+  margin-top: 10%;
+  margin-left: 25%;
+  position: absolute;
+  font-size: 18px;
+}
+.faqcontent {
+  background-image: url('../../images/allbg.jpg');
+  color: white;
+  font-size: 18px;
+  scroll-padding-top: 300px;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100vw;
+  height: 100vh;
+  align-content: center;
+}

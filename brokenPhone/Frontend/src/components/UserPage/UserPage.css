@@ -1,0 +1,20 @@
+.category {
+  min-height: 600px;
+  margin-top: 80px;
+  /*background: url("../../images/bg3.png") center center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+  background: linear-gradient(grey, #add8e6);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* .category {
+  display: grid;
+  grid-gap: 15px;
+  grid-template-columns: repeat(auto-fit, 200px);
+} */
+
+.categoryButton {
+  float: right;
+}

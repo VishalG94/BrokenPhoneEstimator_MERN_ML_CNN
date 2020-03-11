@@ -1,0 +1,87 @@
+.ServicePage {
+  margin-top: 0px;
+  min-height: 0px;
+}
+
+/* .card {
+  margin-bottom: 50px;
+  margin-right: 80px;
+  margin-left: 80px;
+  background-color: #f1f4fa;
+} */
+
+.cardName {
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+.btn {
+  margin: 0px;
+}
+
+.decor {
+  margin: 0px;
+}
+div.card:hover {
+  background-color: #f5f5f5;
+}
+/* .card {
+  padding-top: 4rem;
+  padding-bottom: 5rem;
+  background-color: #f1f4fa;
+}
+div.card:hover {
+  background-color: #6394ff;
+}
+.wrap {
+  display: flex;
+  background: white;
+  padding: 1rem 1rem 1rem 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 7px 7px 30px -5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.wrap:hover {
+  background: linear-gradient(135deg, #6394ff 0%, #0a193b 100%);
+  color: white;
+}
+
+.ico-wrap {
+  margin: auto;
+}
+
+.mbr-iconfont {
+  font-size: 4.5rem !important;
+  color: #313131;
+  margin: 1rem;
+  padding-right: 1rem;
+}
+.vcenter {
+  margin: auto;
+}
+
+.mbr-section-title3 {
+  text-align: center;
+}
+h2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.display-5 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 1.4rem;
+}
+.mbr-bold {
+  font-weight: 700;
+}
+
+p {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  line-height: 25px;
+}
+.display-6 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 1re;
+} */

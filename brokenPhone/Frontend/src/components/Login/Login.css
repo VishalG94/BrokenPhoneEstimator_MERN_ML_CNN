@@ -1,0 +1,77 @@
+body {
+  /*background-color: lightblue;*/
+}
+
+h1 {
+  color: fff;
+  margin-left: 20px;
+}
+
+.Login {
+  width: '20px';
+  height: '20px';
+}
+.LoginPage {
+  margin-left: 4%;
+  margin-top: 80px;
+  padding-top: 130px;
+  width: 100vh;
+}
+.Fullpage {
+  background-image: url('../../images/LoginBG2.jpg');
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+.logodiv {
+  border-bottom: 1px solid rgb(185, 185, 185);
+}
+
+.loginlogo {
+  margin: 15px 20px;
+  padding: 0 20px;
+  height: 80px;
+}
+
+.loginheader {
+  margin: 0;
+  text-align: center;
+  background-color: white;
+  padding: 13px 0 0 0;
+  color: rgb(122, 122, 122);
+}
+
+.loginheadersub {
+  padding: 0 0 20px 0;
+  border-bottom: 2px solid rgb(200, 200, 200);
+}
+
+.signincard {
+  left: 400px;
+  font-size: 20px;
+  color: #fff;
+}
+
+.signupcard {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 900;
+}
+
+.my-facebook-button-class {
+  background: white;
+  border-radius: 2px;
+  border-width: 0.05em 0.05em 0.05em 0.05em;
+  color: rgba(0, 0, 0, 0.54);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  width: 209px;
+  height: 45px;
+  text-align: center;
+  box-shadow: 2px 2px 2px -2px gray;
+}
